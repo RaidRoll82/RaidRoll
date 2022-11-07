@@ -21,4 +21,4 @@ By default it hides all other types of rolls and duplicate rolls
 
 /rr list - Shows the roll tracking window not for the leader
 
-Download Count: https://hanadigital.github.io/grev/?user=Zetaprime82&repo=RaidRoll
+Download Count: https://hanadigital.github.io/grev/?user=RaidRoll82&repo=RaidRoll
